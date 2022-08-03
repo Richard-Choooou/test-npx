@@ -1,0 +1,23 @@
+{
+  "name": "test-npx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-vue": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richard-Choooou/test-npx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richard-Choooou/test-npx/issues"
+  },
+  "homepage": "https://github.com/Richard-Choooou/test-npx#readme"
+}
